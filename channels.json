@@ -153,7 +153,7 @@
   {
     "id": "Thethao1",
     "name": "TV360 Live",
-    "category": "VTV",
+    "category": "Thể Thao",
     "logo": "https://toiyeuvietnam.dpdns.org/Logo/tv360.live/KenhCoBan.png",
     "urls": [
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8"
@@ -162,7 +162,7 @@
   {
     "id": "Thethao2",
     "name": "TV360+ 9",
-    "category": "VTV",
+    "category": "Thể Thao",
     "logo": "https://toiyeuvietnam.dpdns.org/Logo/tv360plus9/KenhCoBan.png",
     "urls": [
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8"
@@ -171,7 +171,7 @@
   {
     "id": "Thethao3",
     "name": "TV360+ 10",
-    "category": "VTV",
+    "category": "Thể Thao",
     "logo": "https://toiyeuvietnam.dpdns.org/Logo/tv360plus10/KenhCoBan.png",
     "urls": [
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus10/KenhCoBan.m3u8"
@@ -180,7 +180,7 @@
   {
     "id": "Thethao4",
     "name": "TV360+ 11",
-    "category": "VTV",
+    "category": "Thể Thao",
     "logo": "https://toiyeuvietnam.dpdns.org/Logo/tv360plus11/KenhCoBan.png",
     "urls": [
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus11/KenhCoBan.m3u8"
@@ -189,7 +189,7 @@
   {
     "id": "Thethao5",
     "name": "SCTVC 22 Trực Tiếp",
-    "category": "VTV",
+    "category": "Thể Thao",
     "logo": "https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/22_881fabb7.jpg",
     "urls": [
       "https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8"
@@ -198,7 +198,7 @@
   {
     "id": "thethao6",
     "name": "HTV Thể Thao",
-    "category": "HTV",
+    "category": "Thể Thao",
     "logo": "https://hd.xemtv.net/image/htvthethao.png",
     "urls": [
       "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
