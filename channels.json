@@ -274,5 +274,153 @@
     "urls": [
       "https://freem3u.xyz/api/live/play.m3u8?vid=136"
     ]
+  },
+  {
+    "id": "htv1",
+    "name": "HTV 1",
+    "category": "HTV",
+    "logo": "https://vn.xemtv.net/image/htv1.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv1/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv2",
+    "name": "HTV 2",
+    "category": "HTV",
+    "logo": "https://vn.xemtv.net/image/htv2.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv2/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv3",
+    "name": "HTV 3",
+    "category": "HTV",
+    "logo": "https://vn.xemtv.net/image/htv3.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv3/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv4",
+    "name": "HTV 4",
+    "category": "HTV",
+    "logo": "https://vn.xemtv.net/image/htv4.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv4/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv5",
+    "name": "HTV5 - Bchannel",
+    "category": "HTV",
+    "logo": "https://vn.xemtv.net/image/htv5.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=151"
+    ]
+  },
+  {
+    "id": "htv6",
+    "name": "HTV7 HD",
+    "category": "HTV",
+    "logo": "https://vn.xemtv.net/image/htv7.png",
+    "urls": [
+      "https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQ3ODY4MTQsInVyaSI6IlwvaHR2Y1wvaHR2Ny4xMDgwcC5uaW1ibGUuYWRtLnRtcyIsImlwIjoiIn0.cmw-HJzEe11db2Syqg6s_aUArKJ_2IytZDT16QwMlvQ-/htvc/htv7.1080p.nimble.adm.tms/playlist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv7-hd/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv7",
+    "name": "HTV9 HD",
+    "category": "HTV",
+    "logo": "https://vn.xemtv.net/image/htv9.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv9-hd/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv8",
+    "name": "HTV Thể Thao",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/htvthethao.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv-the-thao/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv9",
+    "name": "HTVC Gia Đình",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/htvthethao.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-gia-dinh/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv10",
+    "name": "HTVC Phụ Nữ",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/htvphunu.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-phu-nu/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv11",
+    "name": "HTVC Thuần Việt",
+    "category": "HTV",
+    "logo": "https://toiyeuvietnam.dpdns.org/Logo/htvc-thuan-viet/KenhCoBan.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-phu-nu/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv12",
+    "name": "HTVC phim truyện HD",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/phim.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-phim-truyen-hd/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv13",
+    "name": "HTVC Ca Nhạc",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/canhac.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-ca-nhac/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv14",
+    "name": "HTVC Du Lịch",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/dulich.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htvc-du-lich-cuoc-song/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "htv16",
+    "name": "HTVC Plus",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/htv-plus.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8",
+     ]
   }
 ]
