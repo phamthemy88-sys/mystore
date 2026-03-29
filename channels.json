@@ -55,7 +55,7 @@
     ]
   },
   {
-    "id": "vtv6",
+    "id": "vtv5_tnb",
     "name": "VTV 5 Tây Nam Bộ",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtv5-taynambo.png",
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "id": "vtv7",
+    "id": "vtv5_tn",
     "name": "VTV 5 Tây Nguyên",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtv5-taynguyen.png",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "id": "vtv8",
+    "id": "vtv_cantho",
     "name": "VTV Cần Thơ",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtvcantho.png",
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "id": "vtv9",
+    "id": "vtv7",
     "name": "VTV 7 HD",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtv7.png",
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "id": "vtv10",
+    "id": "vtv8",
     "name": "VTV 8 HD",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtv8.png",
@@ -108,16 +108,17 @@
     ]
   },
   {
-    "id": "vtv11",
+    "id": "vtv9",
     "name": "VTV 9 HD",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtv9.png",
     "urls": [
+      "https://live.fptplay53.net/epzhd1/vtv9hd_vhls.smil/chunklist.m3u8",
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
     ]
   },
   {
-    "id": "vtv12",
+    "id": "antv",
     "name": "ANTV - An Ninh TV",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/antv.png",
@@ -128,7 +129,7 @@
     ]
   },
   {
-    "id": "vtv13",
+    "id": "qpvn",
     "name": "QPVN - Quốc Phòng VN",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/qpvn.png",
@@ -139,7 +140,7 @@
     ]
   },
   {
-    "id": "vtv13",
+    "id": "vtv_vntoday",
     "name": "VietNam Today",
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vietnamtoday.png",
@@ -325,17 +326,16 @@
     ]
   },
   {
-    "id": "htv6",
+    "id": "htv7_hd",
     "name": "HTV7 HD",
     "category": "HTV",
     "logo": "https://vn.xemtv.net/image/htv7.png",
     "urls": [
-      "https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQ3ODY4MTQsInVyaSI6IlwvaHR2Y1wvaHR2Ny4xMDgwcC5uaW1ibGUuYWRtLnRtcyIsImlwIjoiIn0.cmw-HJzEe11db2Syqg6s_aUArKJ_2IytZDT16QwMlvQ-/htvc/htv7.1080p.nimble.adm.tms/playlist.m3u8",
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv7-hd/KenhCoBan.m3u8"
     ]
   },
   {
-    "id": "htv7",
+    "id": "htv9_hd",
     "name": "HTV9 HD",
     "category": "HTV",
     "logo": "https://vn.xemtv.net/image/htv9.png",
@@ -345,7 +345,7 @@
     ]
   },
   {
-    "id": "htv8",
+    "id": "htv_thethao",
     "name": "HTV Thể Thao",
     "category": "HTV",
     "logo": "https://hd.xemtv.net/image/htvthethao.png",
@@ -355,7 +355,7 @@
     ]
   },
   {
-    "id": "htv9",
+    "id": "htvc_giadinh",
     "name": "HTVC Gia Đình",
     "category": "HTV",
     "logo": "https://hd.xemtv.net/image/htvthethao.png",
@@ -365,7 +365,7 @@
     ]
   },
   {
-    "id": "htv10",
+    "id": "htvc_phunu",
     "name": "HTVC Phụ Nữ",
     "category": "HTV",
     "logo": "https://hd.xemtv.net/image/htvphunu.png",
@@ -375,7 +375,7 @@
     ]
   },
   {
-    "id": "htv11",
+    "id": "htvc_thuanviet",
     "name": "HTVC Thuần Việt",
     "category": "HTV",
     "logo": "https://toiyeuvietnam.dpdns.org/Logo/htvc-thuan-viet/KenhCoBan.png",
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "id": "htv12",
+    "id": "htvc_phim",
     "name": "HTVC phim truyện HD",
     "category": "HTV",
     "logo": "https://hd.xemtv.net/image/phim.png",
@@ -395,7 +395,7 @@
     ]
   },
   {
-    "id": "htv13",
+    "id": "htvc_canhac",
     "name": "HTVC Ca Nhạc",
     "category": "HTV",
     "logo": "https://hd.xemtv.net/image/canhac.png",
@@ -405,7 +405,7 @@
     ]
   },
   {
-    "id": "htv14",
+    "id": "htvc_dulich",
     "name": "HTVC Du Lịch",
     "category": "HTV",
     "logo": "https://hd.xemtv.net/image/dulich.png",
@@ -415,12 +415,12 @@
     ]
   },
   {
-    "id": "htv16",
+    "id": "htvc_plus",
     "name": "HTVC Plus",
     "category": "HTV",
     "logo": "https://hd.xemtv.net/image/htv-plus.png",
     "urls": [
       "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
-     ]
+    ]
   }
 ]
