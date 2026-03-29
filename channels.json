@@ -148,5 +148,140 @@
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/qpvn-hd/KenhCoBan.m3u8",
       "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8"
     ]
+  },
+  {
+    "id": "vtvcab1",
+    "name": "VTVcab 1 - Vie Giải Trí HD",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/viegiaitri.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=180"
+    ]
+  },
+  {
+    "id": "vtvcab2",
+    "name": "VTVCab2 Phim Việt",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/phimviet.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=175"
+    ]
+  },
+  {
+    "id": "vtvcab3",
+    "name": "VTVcab4 On Movies",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab4.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=181"
+    ]
+  },
+  {
+    "id": "vtvcab4",
+    "name": "VTVCab5 Echannel",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab4.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=182"
+    ]
+  },
+  {
+    "id": "vtvcab5",
+    "name": "VTVCab8 BiBi TV",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab8.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=178"
+    ]
+  },
+  {
+    "id": "vtvcab6",
+    "name": "VTVCab9",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab9.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=189"
+    ]
+  },
+  {
+    "id": "vtvcab7",
+    "name": "OnCine",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab10.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+    ]
+  },
+  {
+    "id": "vtvcab8",
+    "name": "STYLE TV",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/styletv.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+    ]
+  },
+  {
+    "id": "vtvcab9",
+    "name": "VTVCab15",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab15.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=186"
+    ]
+  },
+  {
+    "id": "vtvcab10",
+    "name": "Yeah1TV VTVCab17",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab15.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+    ]
+  },
+  {
+    "id": "vtvcab11",
+    "name": "VTVCab19",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab19.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+    ]
+  },
+  {
+    "id": "vtvcab12",
+    "name": "V Family",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/vtvcab20.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=187"
+    ]
+  },
+  {
+    "id": "vtvcab13",
+    "name": "VTVCab22",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/lifetv.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+    ]
+  },
+  {
+    "id": "vtvcab13",
+    "name": "VTVCab22",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/lifetv.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+    ]
+  },
+  {
+    "id": "vtvcab14",
+    "name": "O2 TV",
+    "category": "VTVCab",
+    "logo": "https://vn.xemtv.net/image/o2tv.png",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+    ]
   }
 ]
