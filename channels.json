@@ -196,6 +196,16 @@
     ]
   },
   {
+    "id": "thethao6",
+    "name": "HTV Thể Thao",
+    "category": "HTV",
+    "logo": "https://hd.xemtv.net/image/htvthethao.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv-the-thao/KenhCoBan.m3u8"
+    ]
+  },
+  {
     "id": "vtvcab1",
     "name": "VTVcab 1 - Vie Giải Trí HD",
     "category": "VTVCab",
@@ -387,16 +397,6 @@
     "urls": [
       "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv9-hd/KenhCoBan.m3u8"
-    ]
-  },
-  {
-    "id": "htv_thethao",
-    "name": "HTV Thể Thao",
-    "category": "HTV",
-    "logo": "https://hd.xemtv.net/image/htvthethao.png",
-    "urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv-the-thao/KenhCoBan.m3u8"
     ]
   },
   {
