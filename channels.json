@@ -115,5 +115,38 @@
     "urls": [
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
     ]
+  },
+  {
+    "id": "vtv12",
+    "name": "ANTV - An Ninh TV",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/antv.png",
+    "urls": [
+      "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/antv/KenhCoBan.m3u8",
+      "https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8"
+    ]
+  },
+  {
+    "id": "vtv13",
+    "name": "QPVN - Quốc Phòng VN",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/qpvn.png",
+    "urls": [
+      "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/qpvn-hd/KenhCoBan.m3u8",
+      "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "vtv13",
+    "name": "VietNam Today",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vietnamtoday.png",
+    "urls": [
+      "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/qpvn-hd/KenhCoBan.m3u8",
+      "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8"
+    ]
   }
 ]
