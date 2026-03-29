@@ -180,7 +180,7 @@
     "id": "vtvcab4",
     "name": "VTVCab5 Echannel",
     "category": "VTVCab",
-    "logo": "https://vn.xemtv.net/image/vtvcab4.png",
+    "logo": "https://vn.xemtv.net/image/vtvcab5.png",
     "urls": [
       "https://freem3u.xyz/api/live/play.m3u8?vid=182"
     ]
@@ -255,15 +255,6 @@
     "logo": "https://vn.xemtv.net/image/vtvcab20.png",
     "urls": [
       "https://freem3u.xyz/api/live/play.m3u8?vid=187"
-    ]
-  },
-  {
-    "id": "vtvcab13",
-    "name": "VTVCab22",
-    "category": "VTVCab",
-    "logo": "https://vn.xemtv.net/image/lifetv.png",
-    "urls": [
-      "https://freem3u.xyz/api/live/play.m3u8?vid=188"
     ]
   },
   {
