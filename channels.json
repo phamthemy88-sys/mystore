@@ -42,5 +42,79 @@
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv4-hd/KenhCoBan.m3u8",
        "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b1000000.m3u8"
     ]
+  },
+  {
+    "id": "vtv5",
+    "name": "VTV 5 HD",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vtv5.png",
+    "urls": [
+       "https://live.fptplay53.net/fnxch2/vtv5hd_abr.smil/chunklist.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8",
+      "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b1000000.m3u8"
+    ]
+  },
+  {
+    "id": "vtv6",
+    "name": "VTV 5 Tây Nam Bộ",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vtv5-taynambo.png",
+    "urls": [
+       "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nam-bo/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "vtv7",
+    "name": "VTV 5 Tây Nguyên",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vtv5-taynguyen.png",
+    "urls": [
+       "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nguyen/KenhCoBan.m3u8"
+    ]
+  },
+  {
+    "id": "vtv8",
+    "name": "VTV Cần Thơ",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vtvcantho.png",
+    "urls": [
+      "https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8",
+      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8",
+       "https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8"
+     ]
+  },
+  {
+    "id": "vtv9",
+    "name": "VTV 7 HD",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vtv7.png",
+    "urls": [
+      "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8",
+       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8",
+      "https://live.fptplay53.net/epzhd1/vtv7hd_vhls.smil/chunklist.m3u8"
+    ]
+  },
+  {
+    "id": "vtv10",
+    "name": "VTV 8 HD",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vtv8.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
+       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8",
+      ""https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b1800000.m3u8"
+    ]
+  },
+  {
+    "id": "vtv11",
+    "name": "VTV 9 HD",
+    "category": "VTV",
+    "logo": "https://vn.xemtv.net/image/vtv9.png",
+    "urls": [
+      "https://live.fptplay53.net/epzhd1/vtv9hd_vhls.smil/chunklist.m3u8",
+       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
+     ]
   }
 ]
