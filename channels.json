@@ -49,7 +49,7 @@
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtv5.png",
     "urls": [
-      "https://live.fptplay53.net/fnxch2/vtv5hd_abr.smil/chunklist.m3u8",
+      "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8",
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8",
       "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b1000000.m3u8"
     ]
@@ -113,7 +113,6 @@
     "category": "VTV",
     "logo": "https://vn.xemtv.net/image/vtv9.png",
     "urls": [
-      "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8",
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
     ]
   }
