@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.0.2",
+  "versionName": "1.0.3",
   "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
   "changeLog": "- Thêm danh sách kênh HTV mượt hơn\n- Sửa lỗi đứng hình khi tải luồng\n- Tối ưu bộ nhớ đệm cho TV Xiaomi"
 }
