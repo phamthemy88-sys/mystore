@@ -2,8 +2,8 @@
   "versionCode": 4,
   "versionName": "1.0.3",
   "latest_version": "1.0.3",
-  "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
-  "update_url": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
+  "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v3.apk",
+  "update_url": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v3.apk",
   "changeLog": "- Cập nhật danh sách kênh mới 2026\n- Tối ưu tốc độ tải luồng video mượt hơn\n- Thêm tính năng xác nhận thoát ứng dụng",
   "changelog": "- Cập nhật danh sách kênh mới 2026\n- Tối ưu tốc độ tải luồng video mượt hơn\n- Thêm tính năng xác nhận thoát ứng dụng"
 }
