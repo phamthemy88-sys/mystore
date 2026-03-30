@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.2",
+  "versionCode": 99, 
+  "versionName": "2.0.0",
   "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
-  "changeLog": "Đã sửa lỗi và thêm tính năng cập nhật."
+  "changeLog": "Test tính năng cập nhật: Nếu bạn thấy bảng này nghĩa là đã thành công!"
 }
