@@ -1,9 +1,7 @@
 {
+  "versionName": "1.0.1",
   "versionCode": 2,
-  "versionName": "1.0.2",
-  "latest_version": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
-  "update_url": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
-  "changeLog": "- Tích hợp hệ thống cập nhật chống Cache.\n- Tối ưu hiệu năng cho Android TV RAM yếu.\n- Sửa lỗi giật hình khi dùng bộ lọc UltraSharp.",
-  "changelog": "- Tích hợp hệ thống cập nhật chống Cache.\n- Tối ưu hiệu năng cho Android TV RAM yếu.\n- Sửa lỗi iật hình khi dùng bộ lọc UltraSharp."
+  "apkUrl": "https://github.com/phamthemy88-sys/mystore/releases/download/v1.0.1/app-release.apk",
+  "message": "Đã có phiên bản mới 1.0.1! Cập nhật ngay để xem thêm nhiều kênh TV mới.",
+  "forceUpdate": false
 }
