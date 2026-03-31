@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.3",
-  "latest_version": "1.0.3",
+  "versionCode": 99,
+  "versionName": "1.0.2",
+  "latest_version": "1.0.2",
   "apkUrl": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
   "update_url": "https://raw.githubusercontent.com/phamthemy88-sys/mystore/refs/heads/main/xemtivi_v2.apk",
   "changeLog": "- Tích hợp hệ thống cập nhật chống Cache.\n- Tối ưu hiệu năng cho Android TV RAM yếu.\n- Sửa lỗi giật hình khi dùng bộ lọc UltraSharp.",
