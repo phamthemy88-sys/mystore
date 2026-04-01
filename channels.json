@@ -76,9 +76,9 @@
   },
   {
     "id": "vtv_cantho",
-    "name": "VTV Cần Thơ",
+    "name": "VTV 10 HD",
     "category": "VTV",
-    "logo": "https://vn.xemtv.net/image/vtvcantho.png",
+    "logo": "https://vn.xemtv.net/image/vtv10.png",
     "urls": [
       "https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8",
       "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8",
