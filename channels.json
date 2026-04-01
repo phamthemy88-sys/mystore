@@ -467,5 +467,50 @@
     "urls": [
       "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
     ]
+  },
+  {
+    "id": "sctv1",
+    "name": "SCTV 1",
+    "category": "SCTV",
+    "logo": "https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/1_cc823220.jpg",
+    "urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8"
+    ]
+  },
+  {
+    "id": "sctv2",
+    "name": "SCTV 2",
+    "category": "SCTV",
+    "logo": "https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/2_fd5dc799.jpg",
+    "urls": [
+      "https://freem3u.xyz/api/live/play.m3u8?vid=201"
+    ]
+  },
+  {
+    "id": "sctv3",
+    "name": "SCTV 3",
+    "category": "SCTV",
+    "logo": "https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/3_efafd3ec.jpg",
+    "urls": [
+      "https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8"
+    ]
+  },
+  {
+    "id": "sctv4",
+    "name": "SCTV 4",
+    "category": "SCTV",
+    "logo": "https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/4_23b344ec.jpg",
+    "urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8"
+    ]
+  },
+  {
+    "id": "sctv5",
+    "name": "SCTV 5",
+    "category": "SCTV",
+    "logo": "https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/4_23b344ec.jpg",
+    "urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8"
+    ]
   }
 ]
