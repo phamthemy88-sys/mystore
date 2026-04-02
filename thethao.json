@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Quê Choa",
+    "url": "https://hxcv.site/chuoichien",
+    "isRemovable": false
+  },
+  {
+    "name": "Lương Sơn",
+    "url": "https://hxcv.site/luongson",
+    "isRemovable": false
+  },
+  {
+    "name": "Kênh Dự Phòng",
+    "url": "https://hxcv.site/backup",
+    "isRemovable": false
+  }
+]
